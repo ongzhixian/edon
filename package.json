@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "edon",
+  "version": "1.0.0",
+  "description": "A basic NodeJs REST API without using frameworks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongzhixian/edon.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Zhixian Ong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ongzhixian/edon/issues"
+  },
+  "homepage": "https://github.com/ongzhixian/edon#readme"
+}
